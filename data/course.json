@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6640ead3-134a-1601-089e-a8ae3e5a604e",
+      "68c2170e-81be-2818-61c8-a13eec5fc055",
+      "22f7737d-a7f2-c1cc-d225-1cf9ee5e04d7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Entrepreneurship Without Borders",
+  "course_description": "This course examines opportunities and problems for entrepreneurs globally, including Europe, Latin America, and Asia. Linkages between the business environment, the institutional framework, and new venture creation are covered with a special focus on blockchain technology. In addition to discussing a range of global entrepreneurial situations, student groups pick one particular cluster on which to focus and to understand what further development would entail. Classroom interactions are based primarily on case studies.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.395",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
